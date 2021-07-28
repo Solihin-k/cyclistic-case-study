@@ -43,7 +43,7 @@ Data on all rides by both members and casual riders from Apr-2020 to Mar-2021 we
 ![HoD1](/images/rides_by_HoD_2.png)
 
 - The number of rides between the 2 groups is almost equally distributed during weekends.
-- The largest relative difference are for rides that started between 0500hrs and 0800hrs.
+- The largest relative difference are for rides that started between 0500hrs and 0800hrs during weekdays.
 
 ### Rides by Bike Type
 ![bike_type](/images/rides_by_bike_type.png)
