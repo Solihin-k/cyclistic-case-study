@@ -22,7 +22,7 @@ The insights generated from this analysis would allow Cyclistic to design market
 
 ## Data
 
-Data on all rides by both memebers and casual riders from Apr-2020 to Mar-2021 were used. Data can be downloaded [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
+Data on all rides by both members and casual riders from Apr-2020 to Mar-2021 were used. Data can be downloaded [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 ## EDA
 
